@@ -1,0 +1,6 @@
+I have used git quite a bit. 
+My first experience with it was on my high school's robotics team. 
+We used git because our team was rather large and we had to keep the code somewhere that it could be accessed by everyone. 
+I never really liked it in that setting, because I kept losing track of what all the commands were. 
+More recently, I have been working with a team of other students at Texas Inventionworks, the engineering makerspace, to build a web app that manages reservations, tool inventory, etc. It was my first big coding project besided robotics, and it took me a couple of tries to fully grasp the flow and commands of git. I mostly used the built-in git functions in the VSCode IDE, which made things easier for me. 
+After I got the hand of it, I found it very useful. It is nice knowing that if I, or anyone else, messes something up, I am not ruining someone else's work.
